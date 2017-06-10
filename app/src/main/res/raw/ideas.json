@@ -1,0 +1,173 @@
+{
+  "aristocracy_ideas": {
+    "cavalry_power": "0.10",
+    "cavalry_cost": "-0.10",
+    "enemy_core_creation": "0.5",
+    "vassal_income": "0.10",
+    "army_tradition_decay": "-0.01",
+    "navy_tradition_decay": "-0.01",
+    "mil_tech_cost_modifier ": " -0.1"
+    },
+    "plutocracy_ideas": {
+    "global_institution_spread": "0.10",
+    "global_unrest": "-2",
+    "global_trade_goods_size_modifier": "0.1",
+    "caravan_power": "0.25"
+    },
+    "innovativeness_ideas": {
+    "advisor_cost": "-0.25",
+    "prestige_decay": "-0.01",
+    "technology_cost": "-0.05",
+    "embracement_cost": "-0.1",
+    "inflation_action_cost": "-0.10",
+    "war_exhaustion": "-0.05",
+    "free_leader_pool": "1"
+    },
+    "religious_ideas": {
+    "culture_conversion_cost": "-0.25",
+    "missionaries": "1",
+    "stability_cost_modifier": "-0.25",
+    "global_missionary_strength": "0.03",
+    "tolerance_own": "1",
+    "papal_influence": "2",
+    "devotion": "0.5",
+    "monthly_fervor_increase": "0.25",
+    "church_power_modifier": "0.1",
+    "global_heretic_missionary_strength": "0.02",
+    "cb_on_religious_enemies": "yes"
+    },
+    "spy_ideas": {
+    "rebel_support_efficiency": "0.50",
+    "spy_offence": "0.5",
+    "global_spy_defence": "0.33",
+    "global_prov_trade_power_modifier": "0.10",
+    "reduced_liberty_desire": "10",
+    "fabricate_claims_cost": "-0.25",
+    "embargo_efficiency": "0.25",
+    "privateer_efficiency": "0.33",
+    "yearly_corruption": "-0.1"
+    },
+    "diplomatic_ideas": {
+    "reduced_stab_impacts": "yes",
+    "diplomats": "1",
+    "war_exhaustion_cost": "-0.33",
+    "improve_relation_modifier": "0.25",
+    "diplomatic_reputation": "2",
+    "province_warscore_cost": "-0.2",
+    "dip_tech_cost_modifier": "-0.1"
+    },
+    "offensive_ideas": {
+    "recover_army_morale_speed": "0.05",
+    "leader_land_shock": "1",
+    "leader_land_fire": "1",
+    "prestige_from_land": "1.0",
+    "siege_ability": "0.20",
+    "land_forcelimit_modifier": "0.2",
+    "discipline": "0.05"
+    },
+    "defensive_ideas": {
+    "hostile_attrition": "1",
+    "land_morale": "0.15",
+    "leader_land_manuever": "1",
+    "defensiveness": "0.2",
+    "fort_maintenance_modifier": "-0.1",
+    "reinforce_speed": "0.33",
+    "land_attrition": "-0.25"
+    },
+    "trade_ideas": {
+    "trade_range_modifier": "0.25",
+    "trade_efficiency": "0.1",
+    "merchants": "1",
+    "trade_steering": "0.25"
+    },
+    "economic_ideas": {
+    "development_cost": "-0.2",
+    "global_tax_modifier": "0.10",
+    "build_cost": "-0.1",
+    "inflation_reduction": "0.1",
+    "interest": "-1",
+    "global_autonomy": "-0.05",
+    "production_efficiency": "0.1"
+    },
+    "exploration_ideas": {
+    "cb_on_primitives": "yes",
+    "colonists": "1",
+    "may_explore": "yes",
+    "range": "0.5",
+    "global_colonial_growth": "20",
+    "global_tariffs": "0.20"
+    },
+    "maritime_ideas": {
+    "sea_repair": "yes",
+    "navy_tradition": "1",
+    "global_sailors_modifier": "0.5",
+    "global_ship_repair": "0.1",
+    "sailor_maintenance_modifer": "-0.1",
+    "naval_forcelimit_modifier": "0.5",
+    "global_ship_cost": "-0.1",
+    "leader_naval_manuever": "2",
+    "blockade_efficiency": "0.5"
+    },
+    "quality_ideas": {
+    "infantry_power": "0.1",
+    "army_tradition": "1",
+    "naval_attrition": "-0.25",
+    "artillery_power": "0.1"
+    },
+    "quantity_ideas": {
+    "land_forcelimit_modifier ": " 0.50",
+    "global_manpower_modifier": "0.50",
+    "manpower_recovery_speed": "0.20",
+    "global_regiment_cost": "-0.1",
+    "land_maintenance_modifier": "-0.10",
+    "possible_mercenaries": "0.25",
+    "garrison_size": "0.25"
+    },
+    "expansion_ideas": {
+    "cb_on_overseas": "yes",
+    "state_maintenance_modifier": "-0.25",
+    "global_regiment_recruit_speed": "-0.1",
+    "global_ship_recruit_speed": "-0.1",
+    "global_trade_power": "0.2"
+    },
+    "administrative_ideas": {
+    "max_states": "5",
+    "mercenary_cost": "-0.25",
+    "core_creation": "-0.25",
+    "merc_maintenance_modifier": "-0.25",
+    "advisor_pool": "1",
+    "adm_tech_cost_modifier": "-0.1"
+    },
+    "humanist_ideas": {
+    "idea_cost": "-0.1",
+    "yearly_harmony": "0.25 ",
+    "religious_unity": "0.25",
+    "tolerance_heretic": "3",
+    "years_of_nationalism": "-10",
+    "num_accepted_cultures": "2",
+    "tolerance_heathen": "3"
+    },
+    "influence_ideas": {
+    "unjustified_demands": "-0.5",
+    "heir_chance": "0.25",
+    "prestige": "0.5",
+    "diplomatic_annexation_cost": "-0.25",
+    "ae_impact": "-0.2",
+    "envoy_travel_time": "-0.25",
+    "diplomatic_upkeep": "1",
+    "vassal_forcelimit_bonus": "1"
+    },
+    "naval_ideas": {
+    "ship_durability": "0.1",
+    "leader_naval_shock": "1",
+    "galley_power": "0.25",
+    "leader_naval_fire": "1",
+    "sunk_ship_morale_hit_recieved": "-0.33",
+    "prestige_from_naval": "1.0",
+    "naval_tradition_from_battle": "0.5",
+    "sailors_recovery_speed": "0.25",
+    "heavy_ship_power": "0.20",
+    "naval_morale": "0.1",
+    "global_naval_engagement_modifier": "0.1"
+  }
+}

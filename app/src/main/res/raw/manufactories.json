@@ -1,0 +1,35 @@
+{
+  "wharf": [
+    "naval_supplies",
+    "fish",
+    "salt"
+  ],
+  "weapons": [
+    "copper",
+    "iron"
+  ],
+  "textile": [
+    "wool",
+    "cloth",
+    "silk",
+    "dyes"
+  ],
+  "plantations": [
+    "coffee",
+    "cotton",
+    "sugar",
+    "tobacco",
+    "cocoa",
+    "grain"
+  ],
+  "tradecompany": [
+    "ivory",
+    "tea",
+    "chinaware",
+    "slaves",
+    "spices",
+    "fur",
+    "wine",
+    "tropical_wood"
+  ]
+}

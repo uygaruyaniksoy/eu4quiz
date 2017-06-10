@@ -1,0 +1,68 @@
+{
+  "marketplace": {
+    "province_trade_power_modifier": "0.5"
+  },
+  "workshop": {
+    "local_production_efficiency": "0.5"
+  },
+  "temple": {
+    "local_tax_modifier": "0.4"
+  },
+  "barracks": {
+    "local_manpower_modifier": "0.5"
+  },
+  "shipyard": {
+    "naval_forcelimit": "2"
+  },
+  "fort_15th": {
+    "fort_level": "2"
+  },
+  "courthouse": {
+    "local_state_maintenance_modifier": "-0.25"
+  },
+  "dock": {
+    "local_sailors_modifier": "0.5"
+  },
+  "regimental_camp": {
+    "land_forcelimit": "1"
+  },
+  "fort_16th": {
+    "fort_level": "4"
+  },
+  "cathedral": {
+    "local_missionary_strength": "0.03"
+  },
+  "university": {
+    "local_development_cost": "-0.20"
+  },
+  "trade_depot": {
+    "province_trade_power_modifier": "1"
+  },
+  "grand_shipyard": {
+    "naval_forcelimit": "4"
+  },
+  "training_fields": {
+    "local_manpower_modifier": "1"
+  },
+  "fort_17th": {
+    "fort_level": "6"
+  },
+  "stock_exchange": {
+    "province_trade_power_modifier": "1.25"
+  },
+  "counting_house": {
+    "local_production_efficiency": "1"
+  },
+  "town_hall": {
+    "local_state_maintenance_modifier": "-0.5"
+  },
+  "drydock": {
+    "local_sailors_modifier": "1.0"
+  },
+  "conscription_center": {
+    "land_forcelimit": "2"
+  },
+  "fort_18th": {
+    "fort_level": "8"
+  }
+}

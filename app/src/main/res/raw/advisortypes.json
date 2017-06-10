@@ -1,0 +1,87 @@
+{
+
+  "philosopher" : {
+  	"prestige" : 1
+  },
+
+  "natural_scientist" : {
+  	"production_efficiency" : 0.10
+  },
+
+  "artist" : {
+  	"stability_cost_modifier" : -0.10
+  },
+
+  "treasurer" : {
+  	"global_tax_modifier" : 0.1
+  },
+
+  "theologian" : {
+  	"global_unrest" : -2
+  },
+
+  "master_of_mint" : {
+  	"inflation_reduction" : 0.10
+  },
+
+  "inquisitor" : {
+  	"global_missionary_strength" : 0.02
+  },
+
+  "statesman" : {
+  	"diplomatic_reputation" : 1
+  },
+
+  "naval_reformer" : {
+  	"naval_morale" : 0.1
+  },
+
+  "trader" : {
+  	"trade_efficiency" : 0.10
+  },
+
+  "spymaster" : {
+  	"spy_offence" : 0.25
+  },
+
+  "colonial_governor" : {
+  	"global_tariffs" : 0.10
+  },
+
+  "diplomat" : {
+  	"improve_relation_modifier" : 0.2
+  },
+
+  "navigator" : {
+  	"range" : 0.20
+  },
+
+  "army_reformer" : {
+  	"land_morale" : 0.10
+  },
+
+  "army_organiser" : {
+  	"land_forcelimit_modifier" : 0.10
+  },
+
+  "commandant" : {
+  	"discipline" : 0.05
+  },
+
+  "quartermaster" : {
+  	"reinforce_speed" : 0.33
+  },
+
+  "recruitmaster" : {
+  	"global_manpower_modifier" : 0.10
+  },
+
+  "fortification_expert" : {
+  	"defensiveness" : 0.2
+  },
+
+  "grand_captain" : {
+  	"land_maintenance_modifier" : -0.10
+  }
+
+}

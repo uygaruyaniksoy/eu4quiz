@@ -1,0 +1,3632 @@
+{
+  "Aachen": {
+    "government": "imperial_city",
+    "religion": "catholic",
+    "primary_culture": "hessian",
+    "capital": "1878"
+  },
+  "Dongola": {
+    "government": "tribal_federation",
+    "primary_culture": "nubian",
+    "religion": "shiite",
+    "capital": "1228"
+  },
+  "Principality of Achaia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "lombard",
+    "religion": "catholic",
+    "capital": "1773"
+  },
+  "Adal": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "1211"
+  },
+  "Aden": {
+    "government": "iqta",
+    "primary_culture": "yemeni_culture",
+    "religion": "sunni",
+    "capital": "390"
+  },
+  "Andalusia": {
+    "government": "iqta",
+    "primary_culture": "andalucian",
+    "religion": "sunni",
+    "capital": "225"
+  },
+  "Afar": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "afar",
+    "capital": "2764"
+  },
+  "Afghanistan": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "afghani",
+    "capital": "447"
+  },
+  "Ahmadnagar": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "marathi",
+    "capital": "544"
+  },
+  "Air": {
+    "government": "tribal_federation",
+    "primary_culture": "tuareg",
+    "religion": "sunni",
+    "capital": "2274"
+  },
+  "Ajuuraan": {
+    "government": "theocratic_government",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "2775"
+  },
+  "Ak Koyunlu": {
+    "government": "steppe_horde",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "418"
+  },
+  "Akamatsu": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1019"
+  },
+  "Ando": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "4192"
+  },
+  "Albania": {
+    "government": "despotic_monarchy",
+    "primary_culture": "albanian",
+    "religion": "catholic",
+    "capital": "4175"
+  },
+  "Alencon": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "1879"
+  },
+  "Algiers": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "algerian",
+    "capital": "338"
+  },
+  "Haasa": {
+    "government": "iqta",
+    "religion": "shiite",
+    "primary_culture": "bedouin_arabic",
+    "capital": "394"
+  },
+  "Alodia": {
+    "government": "tribal_kingdom",
+    "primary_culture": "nubian",
+    "religion": "coptic",
+    "capital": "2798"
+  },
+  "Alsace": {
+    "government": "theocratic_government",
+    "religion": "catholic",
+    "primary_culture": "swabian",
+    "capital": "75"
+  },
+  "Armangnac": {
+    "government": "feudal_monarchy",
+    "primary_culture": "gascon",
+    "religion": "catholic",
+    "capital": "175"
+  },
+  "Anhalt": {
+    "government": "feudal_monarchy",
+    "primary_culture": "saxon",
+    "religion": "catholic",
+    "capital": "58"
+  },
+  "Annam": {
+    "government": "despotic_monarchy",
+    "primary_culture": "vietnamese",
+    "religion": "buddhism",
+    "capital": "2373"
+  },
+  "Ansbach": {
+    "government": "feudal_monarchy",
+    "primary_culture": "franconian",
+    "religion": "catholic",
+    "capital": "71"
+  },
+  "Antemoro": {
+    "government": "tribal_democracy",
+    "primary_culture": "madagasque",
+    "religion": "sunni",
+    "capital": "4026"
+  },
+  "Ainu": {
+    "government": "siberian_native_council",
+    "primary_culture": "ainu",
+    "religion": "animism",
+    "capital": "1852"
+  },
+  "Aquileia": {
+    "government": "theocratic_government",
+    "primary_culture": "venetian",
+    "religion": "catholic",
+    "capital": "111"
+  },
+  "Aragon": {
+    "government": "feudal_monarchy",
+    "primary_culture": "aragonese",
+    "religion": "catholic",
+    "capital": "220"
+  },
+  "Arabia": {
+    "government": "iqta",
+    "primary_culture": "bedouin_arabic",
+    "religion": "sunni",
+    "capital": "385"
+  },
+  "Ardalan": {
+    "government": "iqta",
+    "primary_culture": "kurdish",
+    "religion": "sunni",
+    "capital": "2211"
+  },
+  "Arakan": {
+    "government": "despotic_monarchy",
+    "primary_culture": "arakanese",
+    "religion": "buddhism",
+    "capital": "579"
+  },
+  "Armenia": {
+    "government": "despotic_monarchy",
+    "primary_culture": "armenian",
+    "religion": "coptic",
+    "capital": "419"
+  },
+  "Asakura": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1023"
+  },
+  "Ashanti": {
+    "government": "tribal_despotism",
+    "primary_culture": "aka",
+    "religion": "shamanism",
+    "capital": "1138"
+  },
+  "Ashikaga": {
+    "government": "shogunate",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1020"
+  },
+  "Assam": {
+    "government": "despotic_monarchy",
+    "primary_culture": "assamese",
+    "religion": "hinduism",
+    "capital": "566"
+  },
+  "Astrakhan": {
+    "government": "steppe_horde",
+    "primary_culture": "astrakhani",
+    "religion": "sunni",
+    "capital": "464"
+  },
+  "Duchy of Athens": {
+    "government": "feudal_monarchy",
+    "primary_culture": "tuscan",
+    "religion": "catholic",
+    "capital": "146"
+  },
+  "Atjeh": {
+    "government": "iqta",
+    "primary_culture": "sumatran",
+    "religion": "sunni",
+    "capital": "617"
+  },
+  "Augsburg": {
+    "government": "theocratic_government",
+    "primary_culture": "swabian",
+    "religion": "catholic",
+    "capital": "1868"
+  },
+  "Australia": {
+    "government": "constitutional_republic",
+    "religion": "protestant",
+    "primary_culture": "english",
+    "capital": "1090"
+  },
+  "Auvergne": {
+    "government": "feudal_monarchy",
+    "primary_culture": "occitain",
+    "religion": "catholic",
+    "capital": "199"
+  },
+  "Ava": {
+    "government": "despotic_monarchy",
+    "religion": "buddhism",
+    "primary_culture": "shan",
+    "capital": "584"
+  },
+  "Aydin": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "318"
+  },
+  "Avignon": {
+    "government": "theocratic_government",
+    "religion": "catholic",
+    "primary_culture": "occitain",
+    "capital": "202"
+  },
+  "Ayutthaya": {
+    "government": "despotic_monarchy",
+    "primary_culture": "central_thai",
+    "religion": "buddhism",
+    "capital": "600"
+  },
+  "Aztec Empire": {
+    "government": "despotic_monarchy",
+    "primary_culture": "aztek",
+    "religion": "nahuatl",
+    "capital": "852"
+  },
+  "Baden": {
+    "government": "feudal_monarchy",
+    "primary_culture": "swabian",
+    "religion": "catholic",
+    "capital": "74"
+  },
+  "Bahmanis": {
+    "government": "iqta",
+    "religion": "shiite",
+    "primary_culture": "kannada",
+    "capital": "1948"
+  },
+  "Baluchistan": {
+    "government": "tribal_kingdom",
+    "primary_culture": "baluchi",
+    "religion": "sunni",
+    "capital": "577"
+  },
+  "Banten": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "sunni",
+    "capital": "624"
+  },
+  "Bar": {
+    "government": "feudal_monarchy",
+    "primary_culture": "burgundian",
+    "religion": "catholic",
+    "capital": "187"
+  },
+  "Bavaria": {
+    "government": "feudal_monarchy",
+    "primary_culture": "bavarian",
+    "religion": "catholic",
+    "capital": "65"
+  },
+  "Baroda": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "gujarati",
+    "capital": "516"
+  },
+  "Brunei": {
+    "government": "despotic_monarchy",
+    "primary_culture": "bornean",
+    "religion": "sunni",
+    "capital": "636"
+  },
+  "Beja": {
+    "government": "tribal_federation",
+    "religion": "sunni",
+    "primary_culture": "beja",
+    "capital": "1226"
+  },
+  "Benin": {
+    "government": "tribal_despotism",
+    "religion": "shamanism",
+    "primary_culture": "yorumba",
+    "capital": "1147"
+  },
+  "Berry": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "179"
+  },
+  "Baglana": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "malvi",
+    "capital": "2036"
+  },
+  "Bagelkhand": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "avadhi",
+    "capital": "2097"
+  },
+  "Bharat": {
+    "government": "despotic_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "kannada",
+    "capital": "522"
+  },
+  "Bhutan": {
+    "government": "theocratic_government",
+    "religion": "vajrayana",
+    "primary_culture": "tibetan",
+    "capital": "565"
+  },
+  "Bohtan": {
+    "government": "iqta",
+    "primary_culture": "kurdish",
+    "religion": "sunni",
+    "capital": "2308"
+  },
+  "Bijapur": {
+    "government": "iqta",
+    "religion": "shiite",
+    "primary_culture": "kannada",
+    "capital": "569"
+  },
+  "Bali": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "hinduism",
+    "capital": "631"
+  },
+  "Blambangan": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "hinduism",
+    "capital": "627"
+  },
+  "Bundelkhand": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "avadhi",
+    "capital": "559"
+  },
+  "Bengal": {
+    "government": "iqta",
+    "primary_culture": "bengali",
+    "religion": "sunni",
+    "capital": "563"
+  },
+  "Banjar": {
+    "government": "despotic_monarchy",
+    "primary_culture": "bornean",
+    "religion": "sunni",
+    "capital": "639"
+  },
+  "Bunyoro": {
+    "government": "tribal_kingdom",
+    "primary_culture": "ganda",
+    "religion": "shamanism",
+    "capital": "4065"
+  },
+  "Bohemia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "czech",
+    "religion": "catholic",
+    "capital": "266"
+  },
+  "bonoman": {
+    "government": "tribal_kingdom",
+    "primary_culture": "aka",
+    "religion": "shamanism",
+    "capital": "2254"
+  },
+  "Bosnia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "serbian",
+    "religion": "catholic",
+    "capital": "3002"
+  },
+  "Bourbonnais": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "190"
+  },
+  "Brandenburg": {
+    "government": "feudal_monarchy",
+    "primary_culture": "saxon",
+    "religion": "catholic",
+    "capital": "50"
+  },
+  "Brabant": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "flemish",
+    "capital": "92"
+  },
+  "Bremen": {
+    "government": "imperial_city",
+    "religion": "catholic",
+    "primary_culture": "hannoverian",
+    "capital": "1874"
+  },
+  "Brittany": {
+    "government": "feudal_monarchy",
+    "primary_culture": "breton",
+    "religion": "catholic",
+    "capital": "172"
+  },
+  "Berar": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "marathi",
+    "capital": "548"
+  },
+  "Buryats": {
+    "government": "siberian_native_council",
+    "primary_culture": "buryat",
+    "religion": "tengri_pagan_reformed",
+    "capital": "1056"
+  },
+  "Brunswick": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "57"
+  },
+  "Brazil": {
+    "government": "despotic_monarchy",
+    "religion": "catholic",
+    "primary_culture": "portugese",
+    "capital": "756"
+  },
+  "Basoga": {
+    "government": "tribal_democracy",
+    "primary_culture": "ganda",
+    "religion": "shamanism",
+    "capital": "4062"
+  },
+  "Bashkiria": {
+    "government": "steppe_horde",
+    "primary_culture": "bashkir",
+    "religion": "sunni",
+    "capital": "475"
+  },
+  "Bastar": {
+    "government": "tribal_kingdom",
+    "primary_culture": "gondi",
+    "religion": "hinduism",
+    "capital": "547"
+  },
+  "Semien": {
+    "government": "despotic_monarchy",
+    "primary_culture": "amhara",
+    "religion": "jewish",
+    "capital": "2771"
+  },
+  "Buton": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sulawesi",
+    "religion": "animism",
+    "capital": "2716"
+  },
+  "Betsimisaraka": {
+    "government": "tribal_kingdom",
+    "primary_culture": "madagasque",
+    "religion": "shamanism",
+    "capital": "4025"
+  },
+  "Buganda": {
+    "government": "tribal_kingdom",
+    "primary_culture": "ganda",
+    "religion": "shamanism",
+    "capital": "4064"
+  },
+  "Bukhara": {
+    "government": "iqta",
+    "primary_culture": "uzbehk",
+    "religion": "sunni",
+    "capital": "442"
+  },
+  "Bulgaria": {
+    "government": "feudal_monarchy",
+    "primary_culture": "bulgarian",
+    "religion": "orthodox",
+    "capital": "150"
+  },
+  "Burgundy": {
+    "government": "feudal_monarchy",
+    "primary_culture": "burgundian",
+    "religion": "catholic",
+    "capital": "192"
+  },
+  "Burundi": {
+    "government": "tribal_kingdom",
+    "primary_culture": "rwandan",
+    "religion": "shamanism",
+    "capital": "4070"
+  },
+  "ByzantineEmpire": {
+    "government": "feudal_monarchy",
+    "primary_culture": "greek",
+    "religion": "orthodox",
+    "capital": "151"
+  },
+  "Carib": {
+    "government": "native_council",
+    "primary_culture": "carib",
+    "religion": "animism",
+    "capital": "2805"
+  },
+  "UPCA": {
+    "government": "constitutional_republic",
+    "religion": "catholic",
+    "primary_culture": "castillian",
+    "capital": "841"
+  },
+  "Canada": {
+    "government": "constitutional_republic",
+    "religion": "protestant",
+    "primary_culture": "english",
+    "capital": "991"
+  },
+  "Castile": {
+    "government": "feudal_monarchy",
+    "primary_culture": "castillian",
+    "religion": "catholic",
+    "capital": "219"
+  },
+  "Catalunya": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "catalan",
+    "capital": "213"
+  },
+  "Chiba": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "4190"
+  },
+  "Calchaqui": {
+    "government": "tribal_kingdom",
+    "primary_culture": "diaguita",
+    "religion": "inti",
+    "capital": "794"
+  },
+  "Dali": {
+    "government": "despotic_monarchy",
+    "primary_culture": "bai",
+    "religion": "buddhism",
+    "capital": "661"
+  },
+  "Corfu": {
+    "government": "feudal_monarchy",
+    "primary_culture": "lombard",
+    "religion": "catholic",
+    "capital": "142"
+  },
+  "Ceylon": {
+    "government": "feudal_monarchy",
+    "religion": "buddhism",
+    "primary_culture": "sinhala",
+    "capital": "572"
+  },
+  "Changsheng": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "zhuang",
+    "capital": "664"
+  },
+  "Champa": {
+    "government": "despotic_monarchy",
+    "primary_culture": "cham",
+    "religion": "hinduism",
+    "capital": "607"
+  },
+  "Chu": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "xiang",
+    "capital": "682"
+  },
+  "Chanda": {
+    "government": "tribal_kingdom",
+    "religion": "hinduism",
+    "primary_culture": "gondi",
+    "capital": "2050"
+  },
+  "Chagatai Khanate": {
+    "government": "steppe_horde",
+    "primary_culture": "kirgiz",
+    "religion": "sunni",
+    "capital": "715"
+  },
+  "Chahar": {
+    "government": "steppe_horde",
+    "religion": "vajrayana",
+    "primary_culture": "chahar",
+    "capital": "702"
+  },
+  "Champassak": {
+    "government": "despotic_monarchy",
+    "primary_culture": "lao",
+    "religion": "buddhism",
+    "capital": "608"
+  },
+  "Chile": {
+    "government": "revolutionary_republic",
+    "primary_culture": "castillian",
+    "religion": "catholic",
+    "capital": "787"
+  },
+  "Chimu": {
+    "government": "despotic_monarchy",
+    "primary_culture": "chimuan",
+    "religion": "inti",
+    "capital": "812"
+  },
+  "Champagne": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "cosmopolitan_french",
+    "capital": "186"
+  },
+  "Chernigov": {
+    "government": "feudal_monarchy",
+    "religion": "orthodox",
+    "primary_culture": "ryazanian",
+    "capital": "289"
+  },
+  "Chukchi": {
+    "government": "siberian_native_council",
+    "primary_culture": "kamchatkan",
+    "religion": "tengri_pagan_reformed",
+    "capital": "2440"
+  },
+  "Chavchuveny": {
+    "government": "siberian_native_council",
+    "primary_culture": "kamchatkan",
+    "religion": "tengri_pagan_reformed",
+    "capital": "1041"
+  },
+  "Circassia": {
+    "government": "tribal_federation",
+    "primary_culture": "circassian",
+    "religion": "orthodox",
+    "capital": "463"
+  },
+  "Cajamarca": {
+    "government": "tribal_kingdom",
+    "primary_culture": "inca",
+    "religion": "inti",
+    "capital": "813"
+  },
+  "Chokwe": {
+    "government": "tribal_kingdom",
+    "primary_culture": "chokwe",
+    "religion": "shamanism",
+    "capital": "4095"
+  },
+  "Colla": {
+    "government": "despotic_monarchy",
+    "primary_culture": "aimara",
+    "religion": "inti",
+    "capital": "804"
+  },
+  "Miao": {
+    "government": "despotic_monarchy",
+    "primary_culture": "miao",
+    "religion": "animism",
+    "capital": "2174"
+  },
+  "Colima": {
+    "government": "tribal_democracy",
+    "primary_culture": "aztek",
+    "religion": "nahuatl",
+    "capital": "2657"
+  },
+  "Rewa Kantha": {
+    "government": "feudal_monarchy",
+    "primary_culture": "gujarati",
+    "religion": "hinduism",
+    "capital": "2056"
+  },
+  "Candar": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "328"
+  },
+  "Cocomes": {
+    "government": "tribal_despotism",
+    "primary_culture": "yucatec",
+    "religion": "mesoamerican_religion",
+    "capital": "846"
+  },
+  "Clanricarde": {
+    "government": "feudal_monarchy",
+    "primary_culture": "irish",
+    "religion": "catholic",
+    "capital": "376"
+  },
+  "Colombia": {
+    "government": "constitutional_republic",
+    "religion": "catholic",
+    "primary_culture": "castillian",
+    "capital": "825"
+  },
+  "Corsica": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "sardinian",
+    "capital": "1247"
+  },
+  "Charca": {
+    "government": "despotic_monarchy",
+    "primary_culture": "aimara",
+    "religion": "inti",
+    "capital": "2942"
+  },
+  "Cirebon": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "sunni",
+    "capital": "624"
+  },
+  "Crimea": {
+    "government": "steppe_horde",
+    "religion": "sunni",
+    "primary_culture": "crimean",
+    "capital": "284"
+  },
+  "Cornwall": {
+    "government": "feudal_monarchy",
+    "primary_culture": "welsh",
+    "religion": "catholic",
+    "capital": "233"
+  },
+  "Croatia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "croatian",
+    "religion": "catholic",
+    "capital": "131"
+  },
+  "Crete": {
+    "government": "feudal_monarchy",
+    "primary_culture": "greek",
+    "religion": "orthodox",
+    "capital": "163"
+  },
+  "Shun": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "xibei",
+    "capital": "689"
+  },
+  "Chosokabe": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1819"
+  },
+  "Cusco": {
+    "government": "despotic_monarchy",
+    "primary_culture": "inca",
+    "religion": "inti",
+    "capital": "808"
+  },
+  "Xi": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "hubei",
+    "capital": "2171"
+  },
+  "Chachapoya": {
+    "government": "tribal_kingdom",
+    "primary_culture": "chachapoyan",
+    "religion": "inti",
+    "capital": "2943"
+  },
+  "Yi": {
+    "government": "despotic_monarchy",
+    "primary_culture": "yi",
+    "religion": "animism",
+    "capital": "675"
+  },
+  "Cyprus": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "321"
+  },
+  "Zhou": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "cantonese",
+    "capital": "662"
+  },
+  "dahomey": {
+    "government": "tribal_despotism",
+    "primary_culture": "fon",
+    "religion": "shamanism",
+    "capital": "1140"
+  },
+  "Dai Viet": {
+    "government": "despotic_monarchy",
+    "primary_culture": "vietnamese",
+    "religion": "mahayana",
+    "capital": "613"
+  },
+  "Damot": {
+    "government": "despotic_monarchy",
+    "primary_culture": "amhara",
+    "religion": "coptic",
+    "capital": "2762"
+  },
+  "Denmark": {
+    "government": "feudal_monarchy",
+    "primary_culture": "danish",
+    "religion": "catholic",
+    "capital": "12"
+  },
+  "Darfur": {
+    "government": "tribal_despotism",
+    "primary_culture": "nubian",
+    "religion": "shiite",
+    "capital": "1219"
+  },
+  "Dauphine ": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "occitain",
+    "capital": "204"
+  },
+  "Deccan": {
+    "government": "iqta",
+    "primary_culture": "telegu",
+    "religion": "sunni",
+    "capital": "545"
+  },
+  "dagbon": {
+    "government": "tribal_despotism",
+    "primary_culture": "dagomba",
+    "religion": "shamanism",
+    "capital": "2256"
+  },
+  "Maldives": {
+    "government": "despotic_monarchy",
+    "religion": "sunni",
+    "primary_culture": "malayalam",
+    "capital": "1248"
+  },
+  "Dhundhar": {
+    "government": "feudal_monarchy",
+    "primary_culture": "rajput",
+    "religion": "hinduism",
+    "capital": "519"
+  },
+  "Delhi": {
+    "government": "iqta",
+    "primary_culture": "kanauji",
+    "religion": "sunni",
+    "capital": "522"
+  },
+  "Demak": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "sunni",
+    "capital": "629"
+  },
+  "Desmond": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "irish",
+    "capital": "4118"
+  },
+  "Danzig": {
+    "government": "oligarchic_republic",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "43"
+  },
+  "Date": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1026"
+  },
+  "Ditmarschen": {
+    "government": "peasants_republic",
+    "religion": "catholic",
+    "primary_culture": "hannoverian",
+    "capital": "4141"
+  },
+  "Dulkadir": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "332"
+  },
+  "East Frisia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "1931"
+  },
+  "Egypt": {
+    "government": "iqta",
+    "primary_culture": "al_misr_arabic",
+    "religion": "sunni",
+    "capital": "361"
+  },
+  "Eneara": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sidamo",
+    "religion": "coptic",
+    "capital": "2758"
+  },
+  "England": {
+    "government": "english_monarchy",
+    "primary_culture": "english",
+    "religion": "catholic",
+    "capital": "236"
+  },
+  "Despotate of Epirus": {
+    "government": "despotic_monarchy",
+    "primary_culture": "greek",
+    "religion": "orthodox",
+    "capital": "144"
+  },
+  "Eretna": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "329"
+  },
+  "Estonia": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "estonian",
+    "capital": "36"
+  },
+  "Ethiopia": {
+    "government": "despotic_monarchy",
+    "primary_culture": "amhara",
+    "religion": "coptic",
+    "capital": "1224"
+  },
+  "Etruria": {
+    "government": "enlightened_despotism",
+    "primary_culture": "tuscan",
+    "religion": "catholic",
+    "capital": "116"
+  },
+  "Theodoro": {
+    "government": "despotic_monarchy",
+    "primary_culture": "goths",
+    "religion": "orthodox",
+    "capital": "2410"
+  },
+  "Fez": {
+    "government": "iqta",
+    "primary_culture": "moroccan",
+    "religion": "sunni",
+    "capital": "343"
+  },
+  "Ferrara": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "romagnan",
+    "capital": "113"
+  },
+  "Finland": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "finnish",
+    "capital": "28"
+  },
+  "Flanders": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "flemish",
+    "capital": "90"
+  },
+  "Foix": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "gascon",
+    "capital": "176"
+  },
+  "France": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "183"
+  },
+  "Friesland": {
+    "government": "administrative_republic",
+    "primary_culture": "dutch",
+    "religion": "catholic",
+    "capital": "100"
+  },
+  "Frankfurt": {
+    "government": "imperial_city",
+    "religion": "catholic",
+    "primary_culture": "hessian",
+    "capital": "1876"
+  },
+  "Fulo": {
+    "government": "tribal_despotism",
+    "primary_culture": "fulani",
+    "religion": "shamanism",
+    "capital": "2237"
+  },
+  "Fezzan": {
+    "government": "tribal_federation",
+    "primary_culture": "tunisian",
+    "religion": "sunni",
+    "capital": "2448"
+  },
+  "Galicia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "galician",
+    "religion": "catholic",
+    "capital": "206"
+  },
+  "Gazikumukh": {
+    "government": "iqta",
+    "primary_culture": "dagestani",
+    "religion": "sunni",
+    "capital": "2198"
+  },
+  "Great Britain": {
+    "government": "english_monarchy",
+    "primary_culture": "english",
+    "religion": "protestant",
+    "capital": "236"
+  },
+  "Gondwana": {
+    "government": "tribal_kingdom",
+    "religion": "hinduism",
+    "primary_culture": "gondi",
+    "capital": "550"
+  },
+  "Gelre": {
+    "government": "feudal_monarchy",
+    "primary_culture": "dutch",
+    "religion": "catholic",
+    "capital": "99"
+  },
+  "Genoa": {
+    "government": "merchant_republic",
+    "primary_culture": "ligurian",
+    "religion": "catholic",
+    "capital": "101"
+  },
+  "Georgia": {
+    "government": "despotic_monarchy",
+    "primary_culture": "georgian",
+    "religion": "orthodox",
+    "capital": "423"
+  },
+  "Germany": {
+    "government": "feudal_monarchy",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "50"
+  },
+  "Djerid": {
+    "government": "tribal_federation",
+    "primary_culture": "tunisian",
+    "religion": "sunni",
+    "capital": "352"
+  },
+  "Geledi": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "2776"
+  },
+  "Garhwal": {
+    "government": "feudal_monarchy",
+    "primary_culture": "nepali",
+    "religion": "hinduism",
+    "capital": "511"
+  },
+  "Golden Horde": {
+    "government": "steppe_horde",
+    "primary_culture": "mishary",
+    "religion": "sunni",
+    "capital": "303"
+  },
+  "Golcanda": {
+    "government": "iqta",
+    "religion": "shiite",
+    "primary_culture": "telegu",
+    "capital": "542"
+  },
+  "Great Horde": {
+    "government": "steppe_horde",
+    "primary_culture": "mishary",
+    "religion": "sunni",
+    "capital": "303"
+  },
+  "Gotland": {
+    "government": "noble_republic",
+    "religion": "catholic",
+    "primary_culture": "swedish",
+    "capital": "25"
+  },
+  "Granada": {
+    "government": "iqta",
+    "primary_culture": "andalucian",
+    "religion": "sunni",
+    "capital": "223"
+  },
+  "Greece": {
+    "government": "feudal_monarchy",
+    "primary_culture": "greek",
+    "religion": "orthodox",
+    "capital": "146"
+  },
+  "Garjat": {
+    "government": "tribal_kingdom",
+    "religion": "hinduism",
+    "primary_culture": "garjati",
+    "capital": "553"
+  },
+  "Guge": {
+    "government": "tribal_kingdom",
+    "primary_culture": "tibetan",
+    "religion": "vajrayana",
+    "capital": "2128"
+  },
+  "Germiyan": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "322"
+  },
+  "Gujarat": {
+    "government": "iqta",
+    "primary_culture": "gujarati",
+    "religion": "shiite",
+    "capital": "2054"
+  },
+  "Gascony": {
+    "government": "feudal_monarchy",
+    "primary_culture": "gascon",
+    "religion": "catholic",
+    "capital": "174"
+  },
+  "Gwalior": {
+    "government": "feudal_monarchy",
+    "primary_culture": "kanauji",
+    "religion": "hinduism",
+    "capital": "525"
+  },
+  "Austria": {
+    "government": "feudal_monarchy",
+    "primary_culture": "austrian",
+    "religion": "catholic",
+    "capital": "134"
+  },
+  "Hadoti": {
+    "government": "feudal_monarchy",
+    "primary_culture": "rajput",
+    "religion": "hinduism",
+    "capital": "528"
+  },
+  "Hainaut": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "wallonian",
+    "capital": "91"
+  },
+  "Hamburg": {
+    "government": "imperial_city",
+    "religion": "catholic",
+    "primary_culture": "hannoverian",
+    "capital": "44"
+  },
+  "Hannover": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "57"
+  },
+  "Harar": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "harari",
+    "capital": "1211"
+  },
+  "Haiti": {
+    "government": "despotic_monarchy",
+    "religion": "catholic",
+    "primary_culture": "cosmopolitan_french",
+    "capital": "488"
+  },
+  "Hausa": {
+    "government": "tribal_despotism",
+    "primary_culture": "hausa",
+    "religion": "sunni",
+    "capital": "1151"
+  },
+  "Hadiya": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sidamo",
+    "religion": "sunni",
+    "capital": "2760"
+  },
+  "The Hedjaz": {
+    "government": "tribal_kingdom",
+    "religion": "sunni",
+    "primary_culture": "bedouin_arabic",
+    "capital": "385"
+  },
+  "Hessen": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hessian",
+    "religion": "catholic",
+    "capital": "81"
+  },
+  "Hindustan": {
+    "government": "iqta",
+    "religion": "hinduism",
+    "primary_culture": "kannada",
+    "capital": "522"
+  },
+  "Huyla": {
+    "government": "tribal_kingdom",
+    "primary_culture": "inca",
+    "religion": "inti",
+    "capital": "814"
+  },
+  "Hojo": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "4189"
+  },
+  "Holy Roman Empire": {
+    "government": "feudal_monarchy",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "50"
+  },
+  "Kara Del": {
+    "government": "steppe_horde",
+    "primary_culture": "oirats",
+    "religion": "secondary_vajrayana",
+    "capital": "2122"
+  },
+  "Hobyo": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "2783"
+  },
+  "Hodyntsy": {
+    "government": "siberian_native_council",
+    "primary_culture": "yukagyr",
+    "religion": "tengri_pagan_reformed",
+    "capital": "1037"
+  },
+  "Holland": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "dutch",
+    "capital": "97"
+  },
+  "Hansa": {
+    "government": "merchant_republic",
+    "religion": "catholic",
+    "primary_culture": "hannoverian",
+    "capital": "45"
+  },
+  "Highlands": {
+    "government": "feudal_monarchy",
+    "primary_culture": "highland_scottish",
+    "religion": "catholic",
+    "capital": "252"
+  },
+  "Hsenwi": {
+    "government": "despotic_monarchy",
+    "religion": "buddhism",
+    "primary_culture": "shan",
+    "capital": "583"
+  },
+  "Hosokawa": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1021"
+  },
+  "Hatakeyama": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1837"
+  },
+  "Huai": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "hakka",
+    "capital": "2158"
+  },
+  "Hungary": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hungarian",
+    "religion": "catholic",
+    "capital": "153"
+  },
+  "Ichma": {
+    "government": "theocratic_government",
+    "primary_culture": "aimara",
+    "religion": "inti",
+    "capital": "809"
+  },
+  "Iceland": {
+    "government": "oligarchic_republic",
+    "primary_culture": "norwegian",
+    "religion": "catholic",
+    "capital": "370"
+  },
+  "Imereti": {
+    "government": "feudal_monarchy",
+    "primary_culture": "georgian",
+    "religion": "orthodox",
+    "capital": "422"
+  },
+  "Imagawa": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1839"
+  },
+  "Inca Empire": {
+    "government": "despotic_monarchy",
+    "primary_culture": "inca",
+    "religion": "inti",
+    "capital": "808"
+  },
+  "Ireland": {
+    "government": "feudal_monarchy",
+    "primary_culture": "irish",
+    "religion": "catholic",
+    "capital": "373"
+  },
+  "Iraq": {
+    "government": "iqta",
+    "primary_culture": "al_iraqiya_arabic",
+    "religion": "shiite",
+    "capital": "410"
+  },
+  "Isshiki": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "4185"
+  },
+  "Italy": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "lombard",
+    "capital": "118"
+  },
+  "Ito": {
+    "government": "daimyo",
+    "primary_culture": "kyushuan",
+    "religion": "shinto",
+    "capital": "4180"
+  },
+  "Itza": {
+    "government": "tribal_despotism",
+    "primary_culture": "putun",
+    "religion": "mesoamerican_religion",
+    "capital": "842"
+  },
+  "Malta": {
+    "government": "feudal_monarchy",
+    "primary_culture": "maltese",
+    "religion": "catholic",
+    "capital": "126"
+  },
+  "Janjira": {
+    "primary_culture": "amhara",
+    "religion": "sunni",
+    "capital": "2089",
+    "government": "iqta"
+  },
+  "Jangaldesh": {
+    "government": "tribal_kingdom",
+    "primary_culture": "rajput",
+    "religion": "hinduism",
+    "capital": "512"
+  },
+  "Japan": {
+    "government": "feudal_monarchy",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1020"
+  },
+  "Jaffna": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "tamil",
+    "capital": "2100"
+  },
+  "Jima": {
+    "government": "tribal_despotism",
+    "primary_culture": "oromo",
+    "religion": "shamanism",
+    "capital": "2758"
+  },
+  "Jin": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "jin",
+    "capital": "693"
+  },
+  "Janjiro": {
+    "government": "tribal_kingdom",
+    "primary_culture": "sidamo",
+    "religion": "shamanism",
+    "capital": "4158"
+  },
+  "Jan Mayen": {
+    "government": "despotic_monarchy",
+    "primary_culture": "jan_mayenese",
+    "religion": "animism",
+    "capital": "17"
+  },
+  "Jenne": {
+    "government": "tribal_kingdom",
+    "primary_culture": "bozo",
+    "religion": "sunni",
+    "capital": "1134"
+  },
+  "Jaunpur": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "avadhi",
+    "capital": "555"
+  },
+  "Johor": {
+    "government": "despotic_monarchy",
+    "primary_culture": "malayan",
+    "religion": "sunni",
+    "capital": "597"
+  },
+  "Jolof": {
+    "government": "tribal_despotism",
+    "primary_culture": "senegambian",
+    "religion": "sunni",
+    "capital": "1116"
+  },
+  "Jaisalmer": {
+    "government": "feudal_monarchy",
+    "primary_culture": "rajput",
+    "religion": "hinduism",
+    "capital": "513"
+  },
+  "Kachar": {
+    "government": "tribal_kingdom",
+    "primary_culture": "chin",
+    "religion": "hinduism",
+    "capital": "570"
+  },
+  "Kaffa": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sidamo",
+    "religion": "coptic",
+    "capital": "2757"
+  },
+  "Mdo Khams": {
+    "government": "tribal_kingdom",
+    "primary_culture": "tibetan",
+    "religion": "vajrayana",
+    "capital": "2133"
+  },
+  "Kano": {
+    "government": "tribal_kingdom",
+    "primary_culture": "hausa",
+    "religion": "shamanism",
+    "capital": "1155"
+  },
+  "Karaman": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "324"
+  },
+  "Yarkand": {
+    "government": "tribal_federation",
+    "primary_culture": "uyghur",
+    "religion": "sunni",
+    "capital": "739"
+  },
+  "Kathiawar": {
+    "government": "tribal_kingdom",
+    "religion": "hinduism",
+    "primary_culture": "gujarati",
+    "capital": "503"
+  },
+  "Kazan": {
+    "government": "steppe_horde",
+    "primary_culture": "kazani",
+    "religion": "sunni",
+    "capital": "1082"
+  },
+  "Kabylia": {
+    "government": "tribal_kingdom",
+    "primary_culture": "berber",
+    "religion": "sunni",
+    "capital": "339"
+  },
+  "KanemBornu": {
+    "government": "despotic_monarchy",
+    "religion": "sunni",
+    "primary_culture": "kanuri",
+    "capital": "1157"
+  },
+  "Kaabu": {
+    "government": "tribal_kingdom",
+    "primary_culture": "senegambian",
+    "religion": "sunni",
+    "capital": "1114"
+  },
+  "Kedah": {
+    "government": "despotic_monarchy",
+    "primary_culture": "malayan",
+    "religion": "sunni",
+    "capital": "2394"
+  },
+  "MongolKhanate": {
+    "government": "steppe_horde",
+    "religion": "secondary_vajrayana",
+    "primary_culture": "mongol",
+    "capital": "2116"
+  },
+  "Kangra": {
+    "government": "feudal_monarchy",
+    "primary_culture": "panjabi",
+    "religion": "hinduism",
+    "capital": "509"
+  },
+  "Khandesh": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "marathi",
+    "capital": "527"
+  },
+  "Khiva": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "turkmeni",
+    "capital": "1973"
+  },
+  "Khmer": {
+    "government": "despotic_monarchy",
+    "primary_culture": "khmer",
+    "religion": "buddhism",
+    "capital": "604"
+  },
+  "Khorasan": {
+    "government": "iqta",
+    "primary_culture": "khorasani",
+    "religion": "shiite",
+    "capital": "436"
+  },
+  "Kiche": {
+    "government": "tribal_despotism",
+    "primary_culture": "yucatec",
+    "religion": "mesoamerican_religion",
+    "capital": "841"
+  },
+  "Kildare": {
+    "government": "feudal_monarchy",
+    "primary_culture": "irish",
+    "religion": "catholic",
+    "capital": "4120"
+  },
+  "Kiev": {
+    "government": "feudal_monarchy",
+    "religion": "orthodox",
+    "primary_culture": "ruthenian",
+    "capital": "280"
+  },
+  "Kikondja": {
+    "government": "tribal_kingdom",
+    "primary_culture": "luba",
+    "religion": "shamanism",
+    "capital": "4098"
+  },
+  "Kikuchi": {
+    "government": "daimyo",
+    "primary_culture": "kyushuan",
+    "religion": "shinto",
+    "capital": "4181"
+  },
+  "Kalundwe": {
+    "government": "tribal_kingdom",
+    "primary_culture": "luba",
+    "religion": "shamanism",
+    "capital": "4096"
+  },
+  "Kleves": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hessian",
+    "religion": "catholic",
+    "capital": "2975"
+  },
+  "Khalkha": {
+    "government": "steppe_horde",
+    "religion": "vajrayana",
+    "primary_culture": "khalkha",
+    "capital": "2116"
+  },
+  "Keladi": {
+    "government": "despotic_monarchy",
+    "primary_culture": "kannada",
+    "religion": "hinduism",
+    "capital": "2032"
+  },
+  "Kamchadals": {
+    "government": "siberian_native_council",
+    "primary_culture": "kamchatkan",
+    "religion": "tengri_pagan_reformed",
+    "capital": "1034"
+  },
+  "kong": {
+    "government": "tribal_despotism",
+    "primary_culture": "dyola",
+    "religion": "sunni",
+    "capital": "1125"
+  },
+  "Koch": {
+    "government": "feudal_monarchy",
+    "primary_culture": "assamese",
+    "religion": "hinduism",
+    "capital": "562"
+  },
+  "The Knights": {
+    "government": "monastic_order_government",
+    "primary_culture": "occitain",
+    "religion": "catholic",
+    "capital": "320"
+  },
+  "Kono": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "4186"
+  },
+  "Kochin": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "malayalam",
+    "capital": "535"
+  },
+  "Jerusalem": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "379"
+  },
+  "Kokkand": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "uzbehk",
+    "capital": "458"
+  },
+  "Cologne": {
+    "government": "theocratic_government",
+    "primary_culture": "hessian",
+    "religion": "catholic",
+    "capital": "85"
+  },
+  "Kongo": {
+    "government": "tribal_kingdom",
+    "primary_culture": "kongolese",
+    "religion": "shamanism",
+    "capital": "1170"
+  },
+  "Korea": {
+    "government": "despotic_monarchy",
+    "primary_culture": "korean",
+    "religion": "add_harmonized_mahayana",
+    "capital": "735"
+  },
+  "Krakow": {
+    "government": "feudal_monarchy",
+    "primary_culture": "polish",
+    "religion": "catholic",
+    "capital": "262"
+  },
+  "Khorchin": {
+    "government": "steppe_horde",
+    "religion": "secondary_vajrayana",
+    "primary_culture": "chahar",
+    "capital": "2109"
+  },
+  "Carnatic": {
+    "government": "iqta",
+    "religion": "hinduism",
+    "primary_culture": "tamil",
+    "capital": "1947"
+  },
+  "Karelia": {
+    "government": "tribal_kingdom",
+    "religion": "orthodox",
+    "primary_culture": "karelian",
+    "capital": "32"
+  },
+  "Karagwe": {
+    "government": "tribal_kingdom",
+    "primary_culture": "ganda",
+    "religion": "shamanism",
+    "capital": "4063"
+  },
+  "Khoshuud": {
+    "government": "steppe_horde",
+    "primary_culture": "oirats",
+    "religion": "tengri_pagan_reformed",
+    "capital": "706"
+  },
+  "Kashmir": {
+    "government": "iqta",
+    "primary_culture": "kashmiri",
+    "religion": "shiite",
+    "capital": "508"
+  },
+  "Kasanje": {
+    "government": "tribal_kingdom",
+    "primary_culture": "mbangala",
+    "religion": "shamanism",
+    "capital": "4082"
+  },
+  "Katsina": {
+    "government": "tribal_kingdom",
+    "primary_culture": "hausa",
+    "religion": "sunni",
+    "capital": "1149"
+  },
+  "Kuba": {
+    "government": "tribal_kingdom",
+    "primary_culture": "kuba",
+    "religion": "shamanism",
+    "capital": "4089"
+  },
+  "Courland": {
+    "government": "feudal_monarchy",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "1935"
+  },
+  "Kutai": {
+    "government": "despotic_monarchy",
+    "primary_culture": "bornean",
+    "religion": "hinduism",
+    "capital": "638"
+  },
+  "Kazembe": {
+    "government": "tribal_kingdom",
+    "primary_culture": "luba",
+    "religion": "shamanism",
+    "capital": "4100"
+  },
+  "Khazak Horde": {
+    "government": "steppe_horde",
+    "primary_culture": "khazak",
+    "religion": "sunni",
+    "capital": "1969"
+  },
+  "Florence": {
+    "government": "oligarchic_republic",
+    "primary_culture": "tuscan",
+    "religion": "catholic",
+    "capital": "116"
+  },
+  "La Plata": {
+    "government": "republican_dictatorship",
+    "religion": "catholic",
+    "primary_culture": "castillian",
+    "capital": "778"
+  },
+  "Lauenburg": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "1857"
+  },
+  "Ladakh": {
+    "government": "tribal_kingdom",
+    "primary_culture": "kashmiri",
+    "religion": "vajrayana",
+    "capital": "2074"
+  },
+  "Lundu": {
+    "government": "tribal_despotism",
+    "primary_culture": "nyasa",
+    "religion": "shamanism",
+    "capital": "4039"
+  },
+  "Lebanon": {
+    "government": "iqta",
+    "primary_culture": "al_suryah_arabic",
+    "religion": "sunni",
+    "capital": "1855"
+  },
+  "Leinster": {
+    "government": "feudal_monarchy",
+    "primary_culture": "irish",
+    "religion": "catholic",
+    "capital": "374"
+  },
+  "Lanfang": {
+    "government": "oligarchic_republic",
+    "primary_culture": "hakka",
+    "religion": "confucianism",
+    "capital": "640"
+  },
+  "Liege": {
+    "government": "theocratic_government",
+    "religion": "catholic",
+    "primary_culture": "wallonian",
+    "capital": "93"
+  },
+  "Ligor": {
+    "government": "despotic_monarchy",
+    "primary_culture": "malayan",
+    "religion": "sunni",
+    "capital": "593"
+  },
+  "Lithuania": {
+    "government": "feudal_monarchy",
+    "primary_culture": "lithuanian",
+    "religion": "catholic",
+    "capital": "272"
+  },
+  "LivonianOrder": {
+    "government": "monastic_order_government",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "37"
+  },
+  "LanNa": {
+    "government": "despotic_monarchy",
+    "religion": "buddhism",
+    "primary_culture": "northern_thai",
+    "capital": "589"
+  },
+  "Lunda": {
+    "government": "tribal_kingdom",
+    "primary_culture": "lunda",
+    "religion": "shamanism",
+    "capital": "4092"
+  },
+  "Liang": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "zhongyuan",
+    "capital": "688"
+  },
+  "Lanao": {
+    "government": "noble_republic",
+    "religion": "sunni",
+    "primary_culture": "filipino",
+    "capital": "653"
+  },
+  "Loango": {
+    "government": "tribal_kingdom",
+    "religion": "shamanism",
+    "primary_culture": "kongolese",
+    "capital": "1166"
+  },
+  "Leon": {
+    "government": "feudal_monarchy",
+    "primary_culture": "leonese",
+    "religion": "catholic",
+    "capital": "208"
+  },
+  "Lorraine": {
+    "government": "feudal_monarchy",
+    "primary_culture": "burgundian",
+    "religion": "catholic",
+    "capital": "189"
+  },
+  "Lousiana": {
+    "government": "constitutional_republic",
+    "primary_culture": "english",
+    "religion": "reformed",
+    "capital": "922"
+  },
+  "Luang Prabang": {
+    "government": "despotic_monarchy",
+    "primary_culture": "lao",
+    "religion": "buddhism",
+    "capital": "615"
+  },
+  "Luba": {
+    "government": "tribal_kingdom",
+    "primary_culture": "luba",
+    "religion": "shamanism",
+    "capital": "4097"
+  },
+  "Lucca": {
+    "government": "oligarchic_republic",
+    "primary_culture": "tuscan",
+    "religion": "catholic",
+    "capital": "2980"
+  },
+  "Luwu": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sulawesi",
+    "religion": "animism",
+    "capital": "2715"
+  },
+  "Luxembourgh": {
+    "government": "feudal_monarchy",
+    "primary_culture": "wallonian",
+    "religion": "catholic",
+    "capital": "94"
+  },
+  "Luneburg": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "53"
+  },
+  "Livonia": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "latvian",
+    "capital": "1834"
+  },
+  "LanXang": {
+    "government": "despotic_monarchy",
+    "primary_culture": "lao",
+    "religion": "buddhism",
+    "capital": "615"
+  },
+  "Malabar": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "malayalam",
+    "capital": "534"
+  },
+  "Madurai": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "tamil",
+    "capital": "2101"
+  },
+  "Magdeburg": {
+    "government": "theocratic_government",
+    "primary_culture": "saxon",
+    "religion": "catholic",
+    "capital": "52"
+  },
+  "Mainz": {
+    "government": "theocratic_government",
+    "primary_culture": "hessian",
+    "religion": "catholic",
+    "capital": "78"
+  },
+  "Majapahit": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "hinduism",
+    "capital": "628"
+  },
+  "Makuria": {
+    "government": "tribal_kingdom",
+    "primary_culture": "nubian",
+    "religion": "coptic",
+    "capital": "1234"
+  },
+  "Mali": {
+    "government": "despotic_monarchy",
+    "primary_culture": "mali",
+    "religion": "sunni",
+    "capital": "1124"
+  },
+  "Mameluks": {
+    "government": "iqta",
+    "primary_culture": "al_misr_arabic",
+    "religion": "sunni",
+    "capital": "361"
+  },
+  "Mantua": {
+    "government": "feudal_monarchy",
+    "primary_culture": "romagnan",
+    "religion": "catholic",
+    "capital": "109"
+  },
+  "Marathas": {
+    "government": "despotic_monarchy",
+    "primary_culture": "marathi",
+    "religion": "hinduism",
+    "capital": "1946"
+  },
+  "Marwar": {
+    "government": "despotic_monarchy",
+    "primary_culture": "rajput",
+    "religion": "hinduism",
+    "capital": "514"
+  },
+  "Maya": {
+    "government": "tribal_despotism",
+    "primary_culture": "putun",
+    "religion": "mesoamerican_religion",
+    "capital": "842"
+  },
+  "Mazovia": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "polish",
+    "capital": "257"
+  },
+  "Mombasa": {
+    "government": "tribal_kingdom",
+    "primary_culture": "swahili",
+    "religion": "sunni",
+    "capital": "1202"
+  },
+  "Muisca": {
+    "government": "tribal_kingdom",
+    "primary_culture": "muisca",
+    "religion": "inti",
+    "capital": "825"
+  },
+  "Manchu": {
+    "government": "steppe_horde",
+    "primary_culture": "manchu",
+    "religion": "confucianism",
+    "capital": "2108"
+  },
+  "Mogadishu": {
+    "government": "tribal_kingdom",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "1205"
+  },
+  "Medri Bahri": {
+    "government": "despotic_monarchy",
+    "primary_culture": "tigray",
+    "religion": "coptic",
+    "capital": "2766"
+  },
+  "Meissen": {
+    "government": "feudal_monarchy",
+    "primary_culture": "saxon",
+    "religion": "catholic",
+    "capital": "61"
+  },
+  "Memmingen": {
+    "government": "imperial_city",
+    "primary_culture": "swabian",
+    "religion": "catholic",
+    "capital": "68"
+  },
+  "Mentese": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "319"
+  },
+  "Mewar": {
+    "government": "feudal_monarchy",
+    "primary_culture": "rajput",
+    "religion": "hinduism",
+    "capital": "518"
+  },
+  "Mewat": {
+    "government": "iqta",
+    "primary_culture": "rajput",
+    "religion": "sunni",
+    "capital": "520"
+  },
+  "Mexico": {
+    "government": "constitutional_republic",
+    "primary_culture": "castillian",
+    "religion": "catholic",
+    "capital": "852"
+  },
+  "Montferrat": {
+    "government": "feudal_monarchy",
+    "primary_culture": "piedmontese",
+    "religion": "catholic",
+    "capital": "2981"
+  },
+  "Maguindanao": {
+    "government": "despotic_monarchy",
+    "religion": "sunni",
+    "primary_culture": "filipino",
+    "capital": "652"
+  },
+  "Mahafaly": {
+    "government": "tribal_despotism",
+    "primary_culture": "madagasque",
+    "religion": "shamanism",
+    "capital": "4028"
+  },
+  "Haixi": {
+    "government": "steppe_horde",
+    "primary_culture": "manchu",
+    "religion": "secondary_confucianism",
+    "capital": "730"
+  },
+  "Min": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "chimin",
+    "capital": "1829"
+  },
+  "Merina": {
+    "government": "tribal_despotism",
+    "primary_culture": "madagasque",
+    "religion": "shamanism",
+    "capital": "1792"
+  },
+  "Mixtec": {
+    "government": "tribal_democracy",
+    "primary_culture": "mixtec",
+    "religion": "nahuatl",
+    "capital": "847"
+  },
+  "Majeereen": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "2788"
+  },
+  "Jianzhou": {
+    "government": "steppe_horde",
+    "primary_culture": "manchu",
+    "religion": "secondary_confucianism",
+    "capital": "2108"
+  },
+  "Mecklenburg": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "pommeranian",
+    "capital": "46"
+  },
+  "Makassar": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sulawesi",
+    "religion": "animism",
+    "capital": "641"
+  },
+  "Makua": {
+    "government": "tribal_kingdom",
+    "primary_culture": "makua",
+    "religion": "shamanism",
+    "capital": "4034"
+  },
+  "Manipur": {
+    "government": "tribal_kingdom",
+    "primary_culture": "chin",
+    "religion": "animism",
+    "capital": "2041"
+  },
+  "Malacca": {
+    "government": "despotic_monarchy",
+    "primary_culture": "malayan",
+    "religion": "sunni",
+    "capital": "596"
+  },
+  "Malindi": {
+    "government": "tribal_kingdom",
+    "primary_culture": "swahili",
+    "religion": "sunni",
+    "capital": "1203"
+  },
+  "Milan": {
+    "government": "feudal_monarchy",
+    "primary_culture": "lombard",
+    "religion": "catholic",
+    "capital": "104"
+  },
+  "Malwa": {
+    "government": "iqta",
+    "primary_culture": "malvi",
+    "religion": "sunni",
+    "capital": "526"
+  },
+  "Ming": {
+    "government": "celestial_empire",
+    "religion": "add_harmonized_mahayana",
+    "primary_culture": "jianghuai",
+    "capital": "1821"
+  },
+  "Munster": {
+    "government": "theocratic_government",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "86"
+  },
+  "Modena": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "romagnan",
+    "capital": "106"
+  },
+  "Morea": {
+    "government": "feudal_monarchy",
+    "primary_culture": "greek",
+    "religion": "orthodox",
+    "capital": "145"
+  },
+  "Moldavia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "romanian",
+    "religion": "orthodox",
+    "capital": "268"
+  },
+  "Montenegro": {
+    "government": "feudal_monarchy",
+    "primary_culture": "serbian",
+    "religion": "orthodox",
+    "capital": "138"
+  },
+  "Morocco": {
+    "government": "iqta",
+    "primary_culture": "moroccan",
+    "religion": "sunni",
+    "capital": "344"
+  },
+  "Muscowy": {
+    "government": "despotic_monarchy",
+    "primary_culture": "russian",
+    "religion": "orthodox",
+    "capital": "295"
+  },
+  "MuanPhuan": {
+    "government": "despotic_monarchy",
+    "primary_culture": "lao",
+    "religion": "buddhism",
+    "capital": "1844"
+  },
+  "Maravi": {
+    "government": "tribal_despotism",
+    "primary_culture": "nyasa",
+    "religion": "shamanism",
+    "capital": "4040"
+  },
+  "Marehan": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "2784"
+  },
+  "Mori": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1825"
+  },
+  "Malaya": {
+    "government": "despotic_monarchy",
+    "primary_culture": "malayan",
+    "religion": "sunni",
+    "capital": "596"
+  },
+  "Mossi": {
+    "government": "tribal_kingdom",
+    "primary_culture": "mossi",
+    "religion": "shamanism",
+    "capital": "1137"
+  },
+  "Meath": {
+    "government": "feudal_monarchy",
+    "primary_culture": "irish",
+    "religion": "catholic",
+    "capital": "373"
+  },
+  "Mataram": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "sunni",
+    "capital": "626"
+  },
+  "Mughal": {
+    "government": "feudal_monarchy",
+    "religion": "sunni",
+    "primary_culture": "afghani",
+    "capital": "524"
+  },
+  "Multan": {
+    "government": "iqta",
+    "primary_culture": "panjabi",
+    "religion": "sunni",
+    "capital": "506"
+  },
+  "Moravia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "czech",
+    "religion": "catholic",
+    "capital": "4237"
+  },
+  "MongYang": {
+    "government": "despotic_monarchy",
+    "religion": "buddhism",
+    "primary_culture": "shan",
+    "capital": "582"
+  },
+  "Yeren": {
+    "government": "steppe_horde",
+    "primary_culture": "manchu",
+    "religion": "tengri_pagan_reformed",
+    "capital": "1048"
+  },
+  "Mysore": {
+    "government": "feudal_monarchy",
+    "primary_culture": "kannada",
+    "religion": "hinduism",
+    "capital": "533"
+  },
+  "Mzab": {
+    "government": "theocratic_government",
+    "primary_culture": "berber",
+    "religion": "ibadi",
+    "capital": "2457"
+  },
+  "Nagpur": {
+    "government": "despotic_monarchy",
+    "primary_culture": "marathi",
+    "religion": "hinduism",
+    "capital": "546"
+  },
+  "Najd": {
+    "government": "tribal_federation",
+    "primary_culture": "bedouin_arabic",
+    "religion": "sunni",
+    "capital": "392"
+  },
+  "Naples": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "neapolitan",
+    "capital": "121"
+  },
+  "Navarra": {
+    "government": "feudal_monarchy",
+    "primary_culture": "basque",
+    "religion": "catholic",
+    "capital": "210"
+  },
+  "Naxos": {
+    "government": "feudal_monarchy",
+    "primary_culture": "venetian",
+    "religion": "catholic",
+    "capital": "164"
+  },
+  "Ndongo": {
+    "government": "tribal_kingdom",
+    "primary_culture": "mbundu",
+    "religion": "shamanism",
+    "capital": "1171"
+  },
+  "Netherlands": {
+    "government": "feudal_monarchy",
+    "primary_culture": "dutch",
+    "religion": "catholic",
+    "capital": "92"
+  },
+  "Nevers": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "burgundian",
+    "capital": "191"
+  },
+  "Nagaur": {
+    "government": "iqta",
+    "primary_culture": "rajput",
+    "religion": "sunni",
+    "capital": "2066"
+  },
+  "Jharkhand": {
+    "government": "tribal_kingdom",
+    "primary_culture": "jharkhandi",
+    "religion": "hinduism",
+    "capital": "560"
+  },
+  "Nkore": {
+    "government": "tribal_kingdom",
+    "primary_culture": "ganda",
+    "religion": "shamanism",
+    "capital": "4066"
+  },
+  "Ning": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "gan",
+    "capital": "683"
+  },
+  "Nogai": {
+    "government": "steppe_horde",
+    "primary_culture": "nogaybak",
+    "religion": "sunni",
+    "capital": "465"
+  },
+  "Northumberland": {
+    "government": "feudal_monarchy",
+    "primary_culture": "english",
+    "religion": "catholic",
+    "capital": "246"
+  },
+  "Norway": {
+    "government": "feudal_monarchy",
+    "primary_culture": "norwegian",
+    "religion": "catholic",
+    "capital": "17"
+  },
+  "Novgorod": {
+    "government": "merchant_republic",
+    "primary_culture": "novgorodian",
+    "religion": "orthodox",
+    "capital": "310"
+  },
+  "Nepal": {
+    "government": "feudal_monarchy",
+    "primary_culture": "nepali",
+    "religion": "hinduism",
+    "capital": "557"
+  },
+  "Normandy": {
+    "government": "feudal_monarchy",
+    "primary_culture": "normand",
+    "religion": "catholic",
+    "capital": "168"
+  },
+  "Nassau": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hessian",
+    "religion": "catholic",
+    "capital": "83"
+  },
+  "Funj": {
+    "government": "tribal_despotism",
+    "primary_culture": "nubian",
+    "religion": "coptic",
+    "capital": "1222"
+  },
+  "Nuremberg": {
+    "government": "imperial_city",
+    "primary_culture": "franconian",
+    "religion": "catholic",
+    "capital": "67"
+  },
+  "nupe": {
+    "government": "tribal_despotism",
+    "primary_culture": "nupe",
+    "religion": "sunni",
+    "capital": "1145"
+  },
+  "Nizhny Novgorod": {
+    "government": "despotic_monarchy",
+    "primary_culture": "russian",
+    "religion": "orthodox",
+    "capital": "306"
+  },
+  "Oda": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1030"
+  },
+  "Oudh": {
+    "government": "iqta",
+    "religion": "shiite",
+    "primary_culture": "avadhi",
+    "capital": "523"
+  },
+  "Ogasawara": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "4188"
+  },
+  "OiratHorde": {
+    "government": "steppe_horde",
+    "religion": "tengri_pagan_reformed",
+    "primary_culture": "oirats",
+    "capital": "718"
+  },
+  "Oka": {
+    "government": "feudal_monarchy",
+    "primary_culture": "ryazanian",
+    "religion": "orthodox",
+    "capital": "4116"
+  },
+  "Oldenburg": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "55"
+  },
+  "Oman": {
+    "government": "iqta",
+    "primary_culture": "omani_culture",
+    "religion": "ibadi",
+    "capital": "400"
+  },
+  "Orissa": {
+    "government": "feudal_monarchy",
+    "primary_culture": "oriya",
+    "religion": "hinduism",
+    "capital": "552"
+  },
+  "Orleans": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "184"
+  },
+  "Hormuz": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "bedouin_arabic",
+    "capital": "2999"
+  },
+  "Otomo": {
+    "government": "daimyo",
+    "primary_culture": "kyushuan",
+    "religion": "shinto",
+    "capital": "1014"
+  },
+  "Ouchi": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1017"
+  },
+  "Oyo": {
+    "government": "tribal_despotism",
+    "primary_culture": "yorumba",
+    "religion": "shamanism",
+    "capital": "1146"
+  },
+  "Palatinate": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hessian",
+    "religion": "catholic",
+    "capital": "77"
+  },
+  "Papal": {
+    "government": "papal_government",
+    "primary_culture": "umbrian",
+    "religion": "catholic",
+    "capital": "118"
+  },
+  "Parma": {
+    "government": "feudal_monarchy",
+    "primary_culture": "romagnan",
+    "religion": "catholic",
+    "capital": "105"
+  },
+  "Pattani": {
+    "government": "despotic_monarchy",
+    "religion": "sunni",
+    "primary_culture": "malayan",
+    "capital": "594"
+  },
+  "Pacajes": {
+    "government": "despotic_monarchy",
+    "primary_culture": "aimara",
+    "religion": "inti",
+    "capital": "2831"
+  },
+  "Pegu": {
+    "government": "despotic_monarchy",
+    "primary_culture": "mon",
+    "religion": "buddhism",
+    "capital": "586"
+  },
+  "Persia": {
+    "government": "iqta",
+    "primary_culture": "persian",
+    "religion": "shiite",
+    "capital": "416"
+  },
+  "Peru": {
+    "government": "administrative_republic",
+    "religion": "catholic",
+    "primary_culture": "castillian",
+    "capital": "809"
+  },
+  "Pagarruyung": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sumatran",
+    "religion": "buddhism",
+    "capital": "2681"
+  },
+  "Picardy": {
+    "government": "feudal_monarchy",
+    "primary_culture": "cosmopolitan_french",
+    "religion": "catholic",
+    "capital": "89"
+  },
+  "Pisa": {
+    "government": "oligarchic_republic",
+    "primary_culture": "tuscan",
+    "religion": "catholic",
+    "capital": "115"
+  },
+  "Palembang": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sumatran",
+    "religion": "sunni",
+    "capital": "622"
+  },
+  "The Commonwealth": {
+    "government": "elective_monarchy",
+    "primary_culture": "polish",
+    "religion": "catholic",
+    "capital": "262"
+  },
+  "Polotsk": {
+    "government": "feudal_monarchy",
+    "primary_culture": "byelorussian",
+    "religion": "orthodox",
+    "capital": "275"
+  },
+  "Poland": {
+    "government": "feudal_monarchy",
+    "primary_culture": "polish",
+    "religion": "catholic",
+    "capital": "262"
+  },
+  "Pommern": {
+    "government": "feudal_monarchy",
+    "primary_culture": "pommeranian",
+    "religion": "catholic",
+    "capital": "1858"
+  },
+  "Portugal": {
+    "government": "feudal_monarchy",
+    "primary_culture": "portugese",
+    "religion": "catholic",
+    "capital": "227"
+  },
+  "Paraguay": {
+    "government": "republican_dictatorship",
+    "religion": "catholic",
+    "primary_culture": "castillian",
+    "capital": "775"
+  },
+  "Perak": {
+    "government": "despotic_monarchy",
+    "primary_culture": "malayan",
+    "religion": "sunni",
+    "capital": "595"
+  },
+  "Perm": {
+    "government": "despotic_monarchy",
+    "primary_culture": "uralic",
+    "religion": "orthodox",
+    "capital": "1963"
+  },
+  "Provence": {
+    "government": "feudal_monarchy",
+    "primary_culture": "occitain",
+    "religion": "catholic",
+    "capital": "201"
+  },
+  "Prussia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "41"
+  },
+  "Pasai": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sumatran",
+    "religion": "sunni",
+    "capital": "2673"
+  },
+  "Pskov": {
+    "government": "oligarchic_republic",
+    "primary_culture": "novgorodian",
+    "religion": "orthodox",
+    "capital": "274"
+  },
+  "Patiala": {
+    "government": "feudal_monarchy",
+    "primary_culture": "panjabi",
+    "religion": "sikhism",
+    "capital": "510"
+  },
+  "Pate": {
+    "government": "tribal_kingdom",
+    "primary_culture": "swahili",
+    "religion": "ibadi",
+    "capital": "2796"
+  },
+  "Punjab": {
+    "government": "feudal_monarchy",
+    "primary_culture": "panjabi",
+    "religion": "hinduism",
+    "capital": "507"
+  },
+  "Qara Koyunlu": {
+    "government": "steppe_horde",
+    "primary_culture": "azerbaijani",
+    "religion": "shiite",
+    "capital": "416"
+  },
+  "QasimKhanate": {
+    "government": "steppe_horde",
+    "primary_culture": "mishary",
+    "religion": "sunni",
+    "capital": "1778"
+  },
+  "Qi": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "shandong_culture",
+    "capital": "690"
+  },
+  "Qin": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "xibei",
+    "capital": "700"
+  },
+  "Qing": {
+    "government": "despotic_monarchy",
+    "primary_culture": "manchu",
+    "religion": "confucianism",
+    "capital": "1816"
+  },
+  "Quito": {
+    "government": "tribal_kingdom",
+    "primary_culture": "cara",
+    "religion": "inti",
+    "capital": "820"
+  },
+  "Quebec": {
+    "government": "constitutional_republic",
+    "religion": "catholic",
+    "primary_culture": "cosmopolitan_french",
+    "capital": "986"
+  },
+  "Ragusa": {
+    "government": "merchant_republic",
+    "primary_culture": "croatian",
+    "religion": "catholic",
+    "capital": "137"
+  },
+  "Ramazan": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "327"
+  },
+  "Nanbu": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "4131"
+  },
+  "Riga": {
+    "government": "theocratic_government",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "38"
+  },
+  "Romania": {
+    "government": "feudal_monarchy",
+    "primary_culture": "romanian",
+    "religion": "orthodox",
+    "capital": "161"
+  },
+  "Rohilkhand": {
+    "government": "iqta",
+    "primary_culture": "kanauji",
+    "religion": "shiite",
+    "capital": "2061"
+  },
+  "RomanEmpire": {
+    "government": "feudal_monarchy",
+    "primary_culture": "roman",
+    "religion": "catholic",
+    "capital": "118"
+  },
+  "Russia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "russian",
+    "religion": "orthodox",
+    "capital": "295"
+  },
+  "Ravensburg": {
+    "government": "imperial_city",
+    "primary_culture": "swabian",
+    "religion": "catholic",
+    "capital": "69"
+  },
+  "Rwanda": {
+    "government": "tribal_kingdom",
+    "primary_culture": "rwandan",
+    "religion": "shamanism",
+    "capital": "4067"
+  },
+  "Ryazan": {
+    "government": "feudal_monarchy",
+    "primary_culture": "ryazanian",
+    "religion": "orthodox",
+    "capital": "301"
+  },
+  "Ryukyu": {
+    "government": "despotic_monarchy",
+    "religion": "animism",
+    "primary_culture": "kyushuan",
+    "capital": "1015"
+  },
+  "Butua": {
+    "government": "tribal_despotism",
+    "primary_culture": "shona",
+    "religion": "shamanism",
+    "capital": "1185"
+  },
+  "Siak": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sumatran",
+    "religion": "sunni",
+    "capital": "620"
+  },
+  "Sardinia": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "sardinian",
+    "capital": "127"
+  },
+  "Savoy": {
+    "government": "feudal_monarchy",
+    "primary_culture": "piedmontese",
+    "religion": "catholic",
+    "capital": "205"
+  },
+  "Saxony": {
+    "government": "feudal_monarchy",
+    "primary_culture": "saxon",
+    "religion": "catholic",
+    "capital": "62"
+  },
+  "Shiba": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1030"
+  },
+  "Scandinavia": {
+    "government": "administrative_monarchy",
+    "primary_culture": "swedish",
+    "religion": "protestant",
+    "capital": "1"
+  },
+  "Scotland": {
+    "government": "feudal_monarchy",
+    "primary_culture": "scottish",
+    "religion": "catholic",
+    "capital": "248"
+  },
+  "Sadiya": {
+    "government": "tribal_kingdom",
+    "primary_culture": "assamese",
+    "religion": "hinduism",
+    "capital": "2040"
+  },
+  "Serbia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "serbian",
+    "religion": "orthodox",
+    "capital": "4176"
+  },
+  "Sofala": {
+    "government": "despotic_monarchy",
+    "religion": "shamanism",
+    "primary_culture": "mali",
+    "capital": "1131"
+  },
+  "Holstein": {
+    "government": "feudal_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "1775"
+  },
+  "Shammar": {
+    "government": "tribal_federation",
+    "primary_culture": "bedouin_arabic",
+    "religion": "sunni",
+    "capital": "393"
+  },
+  "Shoni": {
+    "government": "daimyo",
+    "primary_culture": "kyushuan",
+    "religion": "shinto",
+    "capital": "4182"
+  },
+  "Sharjah": {
+    "government": "iqta",
+    "religion": "shiite",
+    "primary_culture": "bedouin_arabic",
+    "capital": "398"
+  },
+  "Shu": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "sichuanese",
+    "capital": "679"
+  },
+  "Shaybanid": {
+    "government": "steppe_horde",
+    "religion": "sunni",
+    "primary_culture": "uzbehk",
+    "capital": "1075"
+  },
+  "Sibir": {
+    "government": "steppe_horde",
+    "primary_culture": "siberian",
+    "religion": "sunni",
+    "capital": "1075"
+  },
+  "Sicily": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "sicilian",
+    "capital": "125"
+  },
+  "Siena": {
+    "government": "administrative_republic",
+    "primary_culture": "tuscan",
+    "religion": "catholic",
+    "capital": "117"
+  },
+  "Silesia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "schlesian",
+    "religion": "catholic",
+    "capital": "263"
+  },
+  "Sakalava": {
+    "government": "tribal_despotism",
+    "primary_culture": "madagasque",
+    "religion": "shamanism",
+    "capital": "1193"
+  },
+  "Sligo": {
+    "government": "feudal_monarchy",
+    "primary_culture": "irish",
+    "religion": "catholic",
+    "capital": "4119"
+  },
+  "Nitra": {
+    "government": "feudal_monarchy",
+    "primary_culture": "slovak",
+    "religion": "catholic",
+    "capital": "1772"
+  },
+  "Salzburg": {
+    "government": "theocratic_government",
+    "religion": "catholic",
+    "primary_culture": "austrian",
+    "capital": "76"
+  },
+  "Sami": {
+    "government": "tribal_kingdom",
+    "religion": "shamanism",
+    "primary_culture": "sapmi",
+    "capital": "18"
+  },
+  "Smolensk": {
+    "government": "feudal_monarchy",
+    "primary_culture": "ryazanian",
+    "religion": "orthodox",
+    "capital": "293"
+  },
+  "Sind": {
+    "government": "iqta",
+    "primary_culture": "sindhi",
+    "religion": "sunni",
+    "capital": "504"
+  },
+  "Shewa": {
+    "government": "despotic_monarchy",
+    "primary_culture": "amhara",
+    "religion": "sunni",
+    "capital": "2791"
+  },
+  "Sokoto": {
+    "government": "tribal_despotism",
+    "primary_culture": "mali",
+    "religion": "sunni",
+    "capital": "1148"
+  },
+  "Songhai": {
+    "government": "despotic_monarchy",
+    "primary_culture": "songhai",
+    "religion": "sunni",
+    "capital": "1133"
+  },
+  "Sus": {
+    "government": "iqta",
+    "primary_culture": "berber",
+    "religion": "sunni",
+    "capital": "348"
+  },
+  "Spain": {
+    "government": "despotic_monarchy",
+    "primary_culture": "castillian",
+    "religion": "catholic",
+    "capital": "219"
+  },
+  "SardiniaPiedmont": {
+    "government": "despotic_monarchy",
+    "religion": "catholic",
+    "primary_culture": "piedmontese",
+    "capital": "103"
+  },
+  "Saruhan": {
+    "government": "despotic_monarchy",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "2297"
+  },
+  "Shirvan": {
+    "government": "iqta",
+    "primary_culture": "azerbaijani",
+    "religion": "shiite",
+    "capital": "421"
+  },
+  "Shan": {
+    "government": "despotic_monarchy",
+    "religion": "buddhism",
+    "primary_culture": "shan",
+    "capital": "582"
+  },
+  "Satake": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1027"
+  },
+  "Styria": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "austrian",
+    "capital": "1863"
+  },
+  "Sukhothai": {
+    "government": "despotic_monarchy",
+    "primary_culture": "northern_thai",
+    "religion": "buddhism",
+    "capital": "601"
+  },
+  "Sulu": {
+    "government": "despotic_monarchy",
+    "religion": "sunni",
+    "primary_culture": "filipino",
+    "capital": "651"
+  },
+  "Sunda": {
+    "government": "despotic_monarchy",
+    "primary_culture": "javanese",
+    "religion": "hinduism",
+    "capital": "2687"
+  },
+  "Sweden": {
+    "government": "feudal_monarchy",
+    "primary_culture": "swedish",
+    "religion": "catholic",
+    "capital": "1"
+  },
+  "Switzerland": {
+    "government": "administrative_republic",
+    "religion": "catholic",
+    "primary_culture": "swiss",
+    "capital": "165"
+  },
+  "Sarigyogir": {
+    "government": "steppe_horde",
+    "primary_culture": "oirats",
+    "religion": "secondary_vajrayana",
+    "capital": "706"
+  },
+  "Soyo": {
+    "government": "tribal_kingdom",
+    "primary_culture": "kongolese",
+    "religion": "shamanism",
+    "capital": "4080"
+  },
+  "Syria": {
+    "government": "iqta",
+    "primary_culture": "al_suryah_arabic",
+    "religion": "sunni",
+    "capital": "382"
+  },
+  "Tabarestan": {
+    "government": "iqta",
+    "primary_culture": "mazandarani",
+    "religion": "shiite",
+    "capital": "426"
+  },
+  "Tarascan": {
+    "government": "despotic_monarchy",
+    "primary_culture": "purepecha",
+    "religion": "nahuatl",
+    "capital": "2624"
+  },
+  "Taungu": {
+    "government": "despotic_monarchy",
+    "primary_culture": "burmese",
+    "religion": "buddhism",
+    "capital": "585"
+  },
+  "Tumbuka": {
+    "government": "tribal_kingdom",
+    "primary_culture": "nyasa",
+    "religion": "shamanism",
+    "capital": "4045"
+  },
+  "Ternate": {
+    "government": "despotic_monarchy",
+    "primary_culture": "moluccan",
+    "religion": "animism",
+    "capital": "649"
+  },
+  "Teutonic Order": {
+    "government": "monastic_order_government",
+    "primary_culture": "prussian",
+    "religion": "catholic",
+    "capital": "1841"
+  },
+  "Tafilalt": {
+    "government": "tribal_despotism",
+    "primary_culture": "moroccan",
+    "religion": "sunni",
+    "capital": "346"
+  },
+  "Touggourt": {
+    "government": "tribal_despotism",
+    "primary_culture": "algerian",
+    "religion": "sunni",
+    "capital": "2456"
+  },
+  "Tibet": {
+    "government": "noble_republic",
+    "primary_culture": "tibetan",
+    "religion": "vajrayana",
+    "capital": "677"
+  },
+  "Thuringia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "saxon",
+    "religion": "catholic",
+    "capital": "63"
+  },
+  "Tidore": {
+    "government": "despotic_monarchy",
+    "primary_culture": "moluccan",
+    "religion": "animism",
+    "capital": "650"
+  },
+  "Timurid Empire": {
+    "primary_culture": "uzbehk",
+    "religion": "sunni",
+    "government": "steppe_horde",
+    "capital": "454"
+  },
+  "Tyrol": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "austrian",
+    "capital": "73"
+  },
+  "Takeda": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1029"
+  },
+  "Toki": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1835"
+  },
+  "Tlapanec": {
+    "government": "tribal_democracy",
+    "primary_culture": "tlapanec",
+    "religion": "nahuatl",
+    "capital": "849"
+  },
+  "Tlemcen": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "berber",
+    "capital": "336"
+  },
+  "Tlaxcala": {
+    "government": "despotic_monarchy",
+    "primary_culture": "aztek",
+    "religion": "nahuatl",
+    "capital": "850"
+  },
+  "Timbuktu": {
+    "government": "tribal_federation",
+    "primary_culture": "tuareg",
+    "religion": "sunni",
+    "capital": "1132"
+  },
+  "Tang": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "zhongyuan",
+    "capital": "687"
+  },
+  "Tonkin": {
+    "government": "despotic_monarchy",
+    "religion": "buddhism",
+    "primary_culture": "vietnamese",
+    "capital": "610"
+  },
+  "Totonac": {
+    "government": "tribal_democracy",
+    "primary_culture": "totonac",
+    "religion": "nahuatl",
+    "capital": "848"
+  },
+  "Toulouse": {
+    "government": "feudal_monarchy",
+    "primary_culture": "occitain",
+    "religion": "catholic",
+    "capital": "196"
+  },
+  "Tripura": {
+    "government": "tribal_kingdom",
+    "primary_culture": "chin",
+    "religion": "hinduism",
+    "capital": "2091"
+  },
+  "Transylvania": {
+    "government": "feudal_monarchy",
+    "primary_culture": "transylvanian",
+    "religion": "catholic",
+    "capital": "1951"
+  },
+  "Trebizond": {
+    "government": "despotic_monarchy",
+    "primary_culture": "pontic_greek",
+    "religion": "orthodox",
+    "capital": "330"
+  },
+  "Trier": {
+    "government": "theocratic_government",
+    "religion": "catholic",
+    "primary_culture": "hessian",
+    "capital": "80"
+  },
+  "Tripoli": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "tunisian",
+    "capital": "354"
+  },
+  "Tirhut": {
+    "government": "feudal_monarchy",
+    "primary_culture": "bihari",
+    "religion": "hinduism",
+    "capital": "2047"
+  },
+  "Tsutsui": {
+    "government": "daimyo",
+    "primary_culture": "japanese",
+    "religion": "shinto",
+    "capital": "1832"
+  },
+  "Tunisia": {
+    "government": "iqta",
+    "primary_culture": "tunisian",
+    "religion": "sunni",
+    "capital": "341"
+  },
+  "Ottoman Empire": {
+    "government": "ottoman_government",
+    "primary_culture": "turkish",
+    "religion": "sunni",
+    "capital": "149"
+  },
+  "Tuscany": {
+    "government": "oligarchic_republic",
+    "primary_culture": "tuscan",
+    "religion": "catholic",
+    "capital": "116"
+  },
+  "Tver": {
+    "government": "feudal_monarchy",
+    "primary_culture": "russian",
+    "religion": "orthodox",
+    "capital": "294"
+  },
+  "Tyo": {
+    "government": "tribal_kingdom",
+    "primary_culture": "kongolese",
+    "religion": "shamanism",
+    "capital": "1169"
+  },
+  "Tyrone": {
+    "government": "feudal_monarchy",
+    "primary_culture": "irish",
+    "religion": "catholic",
+    "capital": "372"
+  },
+  "Buha": {
+    "government": "tribal_kingdom",
+    "primary_culture": "rwandan",
+    "religion": "shamanism",
+    "capital": "4072"
+  },
+  "Uesugi": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "1843"
+  },
+  "Ukraine": {
+    "government": "feudal_monarchy",
+    "religion": "orthodox",
+    "primary_culture": "ruthenian",
+    "capital": "280"
+  },
+  "Ulm": {
+    "government": "imperial_city",
+    "religion": "catholic",
+    "primary_culture": "swabian",
+    "capital": "1872"
+  },
+  "Ulster": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "irish",
+    "capital": "4121"
+  },
+  "Urbino": {
+    "government": "feudal_monarchy",
+    "primary_culture": "umbrian",
+    "religion": "catholic",
+    "capital": "2977"
+  },
+  "United States": {
+    "government": "constitutional_republic",
+    "primary_culture": "american",
+    "religion": "protestant",
+    "capital": "965"
+  },
+  "Utsunomiya": {
+    "government": "daimyo",
+    "primary_culture": "togoku",
+    "religion": "shinto",
+    "capital": "4191"
+  },
+  "Utrecht": {
+    "government": "theocratic_government",
+    "religion": "catholic",
+    "primary_culture": "dutch",
+    "capital": "98"
+  },
+  "Utsang": {
+    "government": "tribal_kingdom",
+    "primary_culture": "tibetan",
+    "religion": "vajrayana",
+    "capital": "677"
+  },
+  "Venice": {
+    "government": "merchant_republic",
+    "primary_culture": "venetian",
+    "religion": "catholic",
+    "capital": "112"
+  },
+  "Verden": {
+    "government": "theocratic_government",
+    "primary_culture": "hannoverian",
+    "religion": "catholic",
+    "capital": "54"
+  },
+  "Vientiane": {
+    "government": "despotic_monarchy",
+    "primary_culture": "lao",
+    "religion": "buddhism",
+    "capital": "614"
+  },
+  "Vijayanagar": {
+    "government": "feudal_monarchy",
+    "primary_culture": "kannada",
+    "religion": "hinduism",
+    "capital": "541"
+  },
+  "Venad": {
+    "government": "feudal_monarchy",
+    "religion": "hinduism",
+    "primary_culture": "malayalam",
+    "capital": "537"
+  },
+  "Venezuela": {
+    "government": "republican_dictatorship",
+    "religion": "catholic",
+    "primary_culture": "castillian",
+    "capital": "831"
+  },
+  "Volyn": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "ruthenian",
+    "capital": "279"
+  },
+  "Wallachia": {
+    "government": "feudal_monarchy",
+    "primary_culture": "romanian",
+    "religion": "orthodox",
+    "capital": "161"
+  },
+  "Warsangali": {
+    "government": "iqta",
+    "religion": "sunni",
+    "primary_culture": "somali",
+    "capital": "2789"
+  },
+  "Wurzburg": {
+    "government": "theocratic_government",
+    "primary_culture": "franconian",
+    "religion": "catholic",
+    "capital": "79"
+  },
+  "Westfalia": {
+    "government": "constitutional_monarchy",
+    "primary_culture": "hannoverian",
+    "religion": "protestant",
+    "capital": "81"
+  },
+  "Wanka": {
+    "government": "despotic_monarchy",
+    "primary_culture": "inca",
+    "religion": "inti",
+    "capital": "810"
+  },
+  "Wales": {
+    "government": "feudal_monarchy",
+    "primary_culture": "welsh",
+    "religion": "catholic",
+    "capital": "242"
+  },
+  "Welayta": {
+    "government": "despotic_monarchy",
+    "primary_culture": "sidamo",
+    "religion": "shamanism",
+    "capital": "2756"
+  },
+  "Wurttemberg": {
+    "government": "feudal_monarchy",
+    "religion": "catholic",
+    "primary_culture": "swabian",
+    "capital": "70"
+  },
+  "Xiu": {
+    "government": "tribal_despotism",
+    "primary_culture": "yucatec",
+    "religion": "mesoamerican_religion",
+    "capital": "2633"
+  },
+  "Wu": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "wu",
+    "capital": "684"
+  },
+  "Yaka": {
+    "government": "tribal_kingdom",
+    "primary_culture": "yaka",
+    "religion": "shamanism",
+    "capital": "4085"
+  },
+  "Yan": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "chihan",
+    "capital": "1816"
+  },
+  "Yao": {
+    "government": "tribal_despotism",
+    "primary_culture": "bilala",
+    "religion": "sunni",
+    "capital": "2288"
+  },
+  "Yaroslavl": {
+    "government": "feudal_monarchy",
+    "religion": "orthodox",
+    "primary_culture": "russian",
+    "capital": "308"
+  },
+  "Yatenga": {
+    "government": "tribal_despotism",
+    "primary_culture": "mossi",
+    "religion": "shamanism",
+    "capital": "1135"
+  },
+  "Andhra": {
+    "government": "feudal_monarchy",
+    "primary_culture": "telegu",
+    "religion": "hinduism",
+    "capital": "2084"
+  },
+  "Yuan": {
+    "government": "celestial_empire",
+    "religion": "confucianism",
+    "primary_culture": "mongol",
+    "capital": "1816"
+  },
+  "Yue": {
+    "government": "despotic_monarchy",
+    "religion": "confucianism",
+    "primary_culture": "cantonese",
+    "capital": "667"
+  },
+  "Zafunu": {
+    "government": "tribal_despotism",
+    "primary_culture": "soninke",
+    "religion": "sunni",
+    "capital": "2245"
+  },
+  "Zwahili": {
+    "government": "tribal_kingdom",
+    "primary_culture": "swahili",
+    "religion": "sunni",
+    "capital": "1196"
+  },
+  "Zapotec": {
+    "government": "tribal_democracy",
+    "primary_culture": "zapotek",
+    "religion": "nahuatl",
+    "capital": "844"
+  },
+  "Zaporozhie": {
+    "government": "steppe_horde",
+    "religion": "orthodox",
+    "primary_culture": "ruthenian",
+    "capital": "283"
+  },
+  "Mutapa": {
+    "government": "tribal_despotism",
+    "primary_culture": "shona",
+    "religion": "shamanism",
+    "capital": "1184"
+  },
+  "Zunghar": {
+    "government": "steppe_horde",
+    "primary_culture": "oirats",
+    "religion": "vajrayana",
+    "capital": "718"
+  },
+  "Zazzau": {
+    "government": "tribal_kingdom",
+    "primary_culture": "hausa",
+    "religion": "shamanism",
+    "capital": "1154"
+  }
+}

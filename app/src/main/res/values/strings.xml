@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Eu4Quiz</string>
+    <string name="statistics">Statistics</string>
+    <string name="play">Play</string>
+    <string name="know_your_eu4">Know Your EU4!</string>
+    <string name="the_end">THE END</string>
+    <string name="replay">Replay</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="rightanswers">rightanswers</string>
+    <string name="wronganswers">wronganswers</string>
+    <string name="highscore">highscore</string>
+    <string name="right_answers">Right Answers:</string>
+    <string name="wrong_answers">Wrong Answers:</string>
+    <string name="high_score">High Score:</string>
+    <string name="options">Options</string>
+    <string name="question_types">Question Types</string>
+    <string name="choose_question_types">Choose Question Types</string>
+</resources>

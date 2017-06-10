@@ -1,0 +1,112 @@
+{
+"age_of_discovery" : {
+
+	"objectives" : [
+		"obj_discover_america",
+		"obj_100_development",
+		"obj_5_centers_of_trade",
+		"obj_30_development_city",
+		"obj_renaissance",
+		"obj_two_unions",
+		"obj_many_vassals",
+		"obj_two_continents",
+		"obj_humiliate_rival",
+	],
+
+	"abilities" : [
+		"ab_allow_feudal_de_jure_law",
+		"ab_justified_wars",
+		"ab_transfer_vassal_wargoal",
+		"ab_free_war_taxes",
+		"ab_cavalry_armies",
+		"ab_colony_boost_development",
+		"ab_attack_bonus_in_capital_terrain",
+		"ab_ottoman_siege_ability",
+		"ab_portugal_colonial_growth",
+		"ab_denmark_reduced_lib_desire",
+		"ab_venice_ship_trade",
+	]
+},
+
+"age_of_reformation" : {
+	"objectives" : [
+		"obj_christian_convert",
+		"obj_humanism_religious",
+		"obj_convert_10_provinces",
+		"obj_colonial_empire",
+		"obj_force_converted",
+		"obj_asian_trade",
+		"obj_unify_culture",
+	]	,
+
+
+	"abilities" : [
+		"ab_allow_religion_enforced",
+		"ab_siege_blockades		",
+		"ab_warscore_vs_religion",
+		"ab_mercenary_discipline",
+		"ab_ship_power_propagation		",
+		"ab_institution_spread_from_true_faith",
+		"ab_prestige_per_development_from_conversion",
+		"ab_spain_tercio",
+		"ab_mughal_artillery",
+		"ab_polish_legitimacy",
+		"ab_persia_reinforce	",
+	]
+},
+
+
+
+
+"age_of_absolutism" : {
+	"objectives" : [
+		"obj_3_trade_companies",
+		"obj_universities",
+		"obj_large_forcelimit",
+		"obj_90_absolutism",
+		"obj_emperor_of_china",
+		"obj_cultures_accepted",
+		"obj_win_religious_war",
+	]	,
+
+	"abilities" : [
+		"ab_allow_edict_of_absolutism",
+		"ab_rival_change",
+		"ab_rival_border_fort",
+		"ab_autonomy",
+		"ab_harsh_treatment",
+		"ab_adm_efficiency",
+		"ab_yearly_absolutism",
+		"ab_france_fire_damage",
+		"ab_dutch_anti_corruption",
+		"ab_sweden_manpower",
+		"ab_manchu_banner",
+	]
+},
+
+"age_of_revolutions" : {
+	"objectives" : [
+		"obj_parliament",
+		"obj_emperor",
+		"obj_large_subject",
+		"obj_disc_army",
+		"obj_huge_capital",
+		"obj_great_general",
+		"obj_two_institutions",
+	],
+
+	"abilities" : [
+		"ab_allow_anti_revolutionary_zeal",
+		"ab_napoleonic_warfare",
+		"ab_force_march",
+		"ab_more_ships_can_fire",
+		"ab_no_distance_for_core",
+		"ab_backrow_artillery",
+		"ab_same_contine_lib_desire",
+		"ab_pru_military",
+		"ab_gbr_fleet",
+		"ab_russia_boost",
+		"ab_austria_rep",
+	]
+}
+}
